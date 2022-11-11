@@ -14,6 +14,7 @@ In addition, the development of the mobile application will make it possible to 
 
 ### Data
 A dataset made up of fruit images and associated labels: https://www.kaggle.com/datasets/moltean/fruits
+
 which can be used as a starting point to build part of the data processing chain.
 
 ## Your mission
