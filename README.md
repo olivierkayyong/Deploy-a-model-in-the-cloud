@@ -22,6 +22,6 @@ You are therefore responsible for developing in a Big Data environment an initia
 ### Constraints
 During his initial brief, Paul warned you of the following points:
 
-You will have to take into account in your developments the fact that the volume of data will increase very quickly after the delivery of this project. 
+- You will have to take into account in your developments the fact that the volume of data will increase very quickly after the delivery of this project. 
 You will therefore develop scripts in Pyspark and use, for example, the AWS cloud to take advantage of a Big Data architecture (EC2, S3, IAM), based on an EC2 Linux server.
-The implementation of a Big Data architecture under (for example) AWS may require a more powerful server configuration than that offered free of charge (EC2 = t2.micro, 1 GB RAM, 8 GB server disk)
+- The implementation of a Big Data architecture under (for example) AWS may require a more powerful server configuration than that offered free of charge (EC2 = t2.micro, 1 GB RAM, 8 GB server disk)
