@@ -18,7 +18,7 @@ A dataset of fruit images and associated labels: https://www.kaggle.com/datasets
 which can be used as a starting point to build part of the data processing chain.
 
 ## Your mission
-Develop a Big Data environment an initial data processing chain which will include preprocessing and a dimension reduction step.
+Develop in a Big Data environment an initial data processing chain which will include preprocessing and a dimension reduction step.
 
 ### Constraints
 During his initial brief, Paul warned you of the following points:
