@@ -1,5 +1,5 @@
 # Deploy a model in the cloud
-You are a Data Scientist in a very young AgriTech start-up, called "Fruits!", which seeks to offer innovative solutions for fruit harvesting.
+You are a Data Scientist in a very young AgriTech start-up, called "Fruits!", which wants to offer innovative solutions for fruit harvesting.
 
 The company's desire is to preserve fruit biodiversity by allowing specific treatments for each fruit species by developing intelligent picking robots.
 
@@ -13,12 +13,12 @@ For the start-up, this application would make the general public aware of fruit 
 In addition, the development of the mobile application will make it possible to build a first version of the necessary Big Data architecture.
 
 ### Data
-A dataset made up of fruit images and associated labels: https://www.kaggle.com/datasets/moltean/fruits
+A dataset of fruit images and associated labels: https://www.kaggle.com/datasets/moltean/fruits
 
 which can be used as a starting point to build part of the data processing chain.
 
 ## Your mission
-You are therefore responsible for developing in a Big Data environment an initial data processing chain which will include preprocessing and a dimension reduction step.
+Develop a Big Data environment an initial data processing chain which will include preprocessing and a dimension reduction step.
 
 ### Constraints
 During his initial brief, Paul warned you of the following points:
